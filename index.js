@@ -1,3 +1,5 @@
-const whatDataType=(data)=>{
-return data;
-}
+const whatDataType = (data) => {
+  return data;
+};
+
+export default whatDataType;
