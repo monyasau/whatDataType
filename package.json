@@ -1,0 +1,23 @@
+{
+  "name": "whatdatatype",
+  "version": "1.0.0",
+  "description": "A simple package that translates the supplied data and return it's type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monyasau/whatDataType.git"
+  },
+  "keywords": [
+    "dataType",
+    "string"
+  ],
+  "author": "Olanrewaju Olajide Monyasau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monyasau/whatDataType/issues"
+  },
+  "homepage": "https://github.com/monyasau/whatDataType#readme"
+}
