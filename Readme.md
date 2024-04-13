@@ -1,5 +1,5 @@
 # Installation:
- npm i whatdatatype
+ npm i @monyasau/whatdatatype
 
 # Usage:
 

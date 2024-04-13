@@ -1,5 +1,5 @@
 {
-  "name": "whatdatatype",
+  "name": "@monyasau/whatdatatype",
   "version": "1.0.0",
   "description": "A simple package that translates the supplied data and return it's type",
   "main": "index.js",
