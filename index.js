@@ -1,5 +1,5 @@
 const whatDataType = (data) => {
-  return data;
+      return typeof(data);
 };
 
-export default whatDataType;
+module.exports = whatDataType;
